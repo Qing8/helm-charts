@@ -164,6 +164,9 @@ identity: {}
 
 kiali_feature_flags:
   disabled_features: []
+  ui_defaults:
+    graph:
+      display_menu: {}
 
 login_token:
   signing_key: ""
